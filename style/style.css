@@ -12,7 +12,7 @@
 
 .banner-box{
     width: 75%;
-    margin: 0px auto;
+    margin: 0 auto;
     padding: 80px 100px;
     display: flex;
     background-color: #C6E4D6;
@@ -30,6 +30,7 @@
 
 .banner-box h1{
     font-size: 56px;
+    font-weight: bold;
 }
 
 .btn-box{
@@ -47,4 +48,68 @@
     background-color: #006A50;
     border: none;
     font-size: 18px;
+}
+
+.signin-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 18px;
+    font-weight: bold;
+    color: #047857;
+    background: white;
+    border: 2px solid #047857;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    outline: none; 
+}
+
+.signin-btn:hover {
+    background: #047857;
+    color: white;
+}
+
+.uporer-jinis{
+    display: flex;
+    gap: 850px;
+    width: 80%;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+/* 2 number */
+.Pillars{
+    padding: 60px 0;
+}
+
+.Pillars-box{
+    width: 75%;
+    margin: 0 auto;
+}
+
+.Pillars-heading{
+    margin-bottom: 32px;
+}
+.Pillars-heading h1{
+    font-size: 40px;
+    padding: 40px;
+}
+
+.Pillars-card-container{
+    display: flex;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+.Pillars-card{
+    padding: 24px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.233);
+    border-radius: 20px;
+}
+.Pillars-card h3{
+    padding: 10px;
+    font-size: 16px;
+}
+.Pillars-icon{
+    margin: 10px;
 }
