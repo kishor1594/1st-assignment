@@ -113,3 +113,335 @@
 .Pillars-icon{
     margin: 10px;
 }
+
+/* 3 number */
+
+
+
+.The-Vision-of-Future{
+    width: 75%;
+    margin: 0 auto;
+}
+.The-Vision-content h1{
+    padding-bottom: 24px;
+    font-size: 40px;
+}
+.The-Vision-content p{
+    font-size: 16px;
+}
+
+.The-Vision-card{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px;
+    gap: 24px;
+    width: 95%;
+}
+.The-Vision-card-1{
+    background-color: #548ff534;
+    padding: 30px;
+    border-radius: 20px
+}
+.The-Vision-card-2{
+    background-color: #C6E4D6;
+    padding: 30px;
+    border-radius: 20px
+}
+.The-Vision-card-3{
+    background-color: #F7EBCF;
+    padding: 30px;
+    border-radius: 20px
+    
+}
+
+.Learn-More-1{
+    margin-top: 30px;
+    background-color: #5490F5;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.Learn-More-2{
+    margin-top: 30px;
+    background-color: #5490F5;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.Learn-More-3{
+    margin-top: 30px;
+    background-color: #5490F5;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+/* 3 number */
+.The-Vision-pm {
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 90%;
+    height: 180px;
+    margin: 0 auto; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288); 
+    position: relative;
+}
+
+.The-Vision-pm-icon {
+    font-size: 200px;
+    color: #cccccc93;
+    position: absolute;
+    margin-left: 0px;
+
+}
+
+.The-Vision-pm p {
+    font-size: 16px;
+    color: #0e0e0ed2;
+    margin-bottom: 10px;
+    align-items: center;
+}
+
+.The-Vision-pm h3 {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.The-Vision-pm .Yunus {
+    font-size: 14px;
+    color: #777;
+}
+
+/* 4 number */
+
+/* .Bangladesh-all{
+    padding: 20px;
+    max-width: 90%;
+    height: 180px;
+    margin: 0 auto; 
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288); 
+    position: relative;
+} */
+.Recent-News p{
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 24px;
+    padding-bottom: 32px;
+}
+.Recent-News{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 32px;
+}
+.Bangladesh-card-all{
+    width: 70%;
+    margin: 0 auto;
+}
+
+.Bangladesh-1{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
+    border-radius: 20px;
+}
+.bd-img{
+    border-right: 20px;
+    padding-left: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-right: 20px;
+}
+.bd-img-2{
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    padding-right: 48px;
+}
+.bd-content{
+    padding-left: 0px;
+    padding-right: 48px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+    gap: 10px;
+}
+.bd-content-2{
+    
+}
+.Learn-More-bd{
+    margin-top: 30px;
+    background-color: #006A50;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+} 
+.bd-content-2{
+    padding-left: 48px;
+    padding-right: 0px;
+    padding-top: 48px;
+    padding-bottom: 48px;
+}
+.bd-content h1{
+    padding-bottom: 10px;
+}
+.dt{
+    display: flex;
+    gap: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.bds{
+    border-radius: 20px;
+}
+
+/* 5 number */
+
+.Donate-Today-box{
+    width: 70%;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.amount-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    padding: 25px;
+}
+.amount-btn{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
+}
+.amount-btn2{
+    padding: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: #C6E4D6;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
+}
+
+.Donate-Today-content h1{
+    text-align: center;
+    font-weight: 40px;
+    font-weight: bolder;
+}
+.Donate-Today-content p{
+    padding-top: 24px;
+}
+.Other-Amount{
+    width: 90%;
+    padding: 15px;
+    color: #0e0e0e59;
+    font-size: 20px;
+    border: none;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.288);
+}
+.Donate-Today-Other-taka{
+    width: 100%;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 10px;
+}
+.Done-Now{
+    background-color: #006A50;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    margin-top: 10px;
+}
+.Donate-Today-button{
+    align-items: center;
+    margin-left: 450px;
+}
+
+/* 6 */
+
+.Subscribe{
+    padding-top: 80px;
+    align-items: center;
+    margin: 0 auto;
+}
+.Subscribe-item{
+    background-color: #C6E4D6;
+    padding: 60px;
+    width: 60%;
+    border-radius: 15px;
+    text-align: center;
+    margin: 0 auto;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.Subscribe-text p{
+    text-align: center;
+    font-size: 16px;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-bottom: 30px;
+    color: #0e0e0e65;
+}
+.Subscribe-text h1{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.Subscribe-form input{
+    padding: 20px;
+    width: 75%;
+    border: none;
+    text-align: center;
+}
+.Subscribe-form button{
+    padding: 20px;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    background-color: #006A50;
+    color: white;
+}
+.Subscribe-box p{
+    color: #0e0e0e65;
+    padding-top: 20px;
+}
+
+/* 7 */
+
+.footer-content{
+    background-color: white;
+    padding: 80px;
+    
+}
+.footer-content hr{
+    width: 80%;
+    margin: 0 auto;
+    color: rgba(0, 0, 0, 0.63);
+}
+.footer-box{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+}
+.footer-box h1{
+    padding: 40px;
+}
+.footer-icon{
+    padding: 40px;
+}
